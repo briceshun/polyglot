@@ -1,0 +1,5 @@
+python -m pip install ipython-sql
+python -m pip install sqlalchemy
+python -m pip install teradatasql
+python -m pip install teradatasqlalchemy
+python -m pip install teradataml
