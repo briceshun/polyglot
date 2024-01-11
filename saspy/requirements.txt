@@ -1,0 +1,4 @@
+python -m pip install jupyterlab
+python -m pip install SAS-kernel
+python -m pip install saspy
+python -m pip install pandas
